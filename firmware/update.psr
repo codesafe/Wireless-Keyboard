@@ -1,0 +1,9 @@
+// PSKEY_BDADDR
+&0001 = 00fd ca3b 0051 98d3
+
+
+// PSKEY_ANA_FTRIM
+&01f6 = 001d
+
+// PSKEY_ANA_FREQ
+&01fe = 6590
